@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8" />
+	<title>O'clock - Formation Développeur Web</title>
+</head>
+<body>
+	<header>
+		<h3><a href="#">Accueil</a></h3>
+		<h3><a href="#">La méthode</a></h3>
+		<h3><a href="#">Les formations</a></h3>
+		<img src="rondQuiSertaRien">
+		<h3><a href="#">On recrute</a></h3>
+		<h3><a href="#">La Team</a></h3>
+		<h3><a href="#">Le Blog</a></h3>
+		<h3><a href="#">Vous Recrutez?</a></h3>
+		<h3><a href="#">Je m'inscris</a></h3>
+	</header>
+<article> <!--Fond turquoise -->
+	<p><img src="index.png"></p>
+	<p><h1>Embarquez dans nos salles de classe virtuelles pour apprendre le métier de développeur, entouré de vos camarades de promotion et de vos formateurs. Un seul objectif : faire de vous un développeur web compétent, diplômé et recruté !</h1></p>
+	<p><h2>DES COURS EN DIRECT</h2>animés chaque jour en téléprésentiel</p>
+	<p><h2>DES PROFS DEVOUES</h2>aux petits soin et à temps plein</p>
+	<p><h2>UNE COMMUNAUTE</h2>d'étudiants réactive et soudée</p>
+	<p><h2>UN COACHING ACTIF</h2>pour trouver un emploi de développeur</p>
+</article>
+
+<article> <!-- Fond bleu -->
+	<p><img src="poisson.jpeg"></p>
+	<p>"Tout le monde est un génie, mais si vous jugez un poisson sur sa capacité à grimper à un arbre, il passera
+	sa vie à croire qu'il est stupide"</p>
+	<h2>ALBERT EINSTEIN</h2>
+</article>
+
+<article> <!-- Fond rouge/saumon -->
+	<h2>NOUVELLE ECOLE, NOUVELLE METHODE</h2>
+	<p> Depuis chez soi, on se plonge dans les cours en direct-vidéo, animés chaque jour par nos formateurs. Une salle de classe vivante où les élèves apprennent ensemble le métier de développeur.</p>
+
+	<p>Après les cours, les étudiants pourront aiguiser leurs compétences à coups de révisions et de challenges, en autonomie comme en groupe. Ils s’entraînent, s’entraident et sont encadrés constamment et en temps réel par une équipe pédagogique expérimentée.</p>
+
+	<p>On appelle ça le téléprésentiel : l’accompagnement humain allié au confort de l’apprentissage à la maison… et en chaussons ! </p>
+	
+	<p><a href="#">LA METHODE DANS LE DETAIL</a></p><p><img src="pc.png"></p>
+</article>
+
+<article> <!-- Fond jaune jaune!! -->
+	<h2>DES FORMATIONS FAIT-MAISON</h2>
+	<p>Découvrez toutes nos formations à déguster depuis chez vous en téléprésentiel. Envie de coder sur le pouce ou d’une formation plus garnie : nous avons sûrement un programme correspondant à votre appétit.</p>
+
+	<p>Derrière les fourneaux, une brigade de formateurs-développeurs avec des années de pratique au compteur, qui ont pensé, conçu et mitonné toutes les formations présentes au menu.</p>
+
+	<p>Une école à la maison avec des programmes « fait-maison », c’était la moindre des choses.</p>
+
+	<p><a href="#">DECOUVREZ NOS FORMATIONS</a></p>
+
+</article>
+
+<article> <!-- Fond vert lime -->
+	<h2>DE QUOI A-T-ON BESOIN POUR S'INSCRIRE?</h2>
+	<img src="matos.png">
+	<p><h2>Un ordinateur, la base.</h2></p>
+	<p>Développer sans ordinateur, ce sera franchement compliqué. Assurez-vous d’avoir une bonne machine avant de vous inscrire chez O’clock. Pour vous aider à financer votre équipement, O’clock vous donnera un <a href="#">coup de pouce</a> !</p>
+
+</article>
+
+<article> <!-- fond caca d'oie -->
+	<img src="#.jpg">
+	<p>Une école avec un concept d’enseignement hors du commun, l’avenir de l’enseignement ! La meilleure expérience de ma vie en termes d’apprentissage. Bravo O’clock</p>	
+	<h3>MARIE LAURE JUNG</h3>
+	<p>Promo Wave</p>
+
+	<img src="#.jpg">
+	<p>Pôle Emploi a validé ma demande et finance intégralement ma formation. Chaque matin, je me lève, pressée de démarrer le cours et d’apprendre plein de nouvelles choses !</p>
+	<h3>ARIANE SPANNEUT</h3>
+	<p>Promo Sirius</p>
+
+	<img src="#.jpg">
+	<p>Grâce à tout ce que j’ai appris, je me considère aujourd’hui comme développeur junior. D’ailleurs, j’ai trouvé un emploi avant même d’avoir fini ma formation !</p>
+	<h3>GUILLAUME LODI</h3>
+	<p>Promo Big Bang</P>
+
+	<img src="#.jpg">
+	<p>Bien plus qu’une formation, une véritable aventure ! L’intensité est au rendez-vous, le contenu est riche, l’encadrement est fantastique.</p>
+	<h3>AURELIE CALLE</h3>
+	<p>Promo Nova</p>
+</article>
+
+<article> <!-- Fond marron pas beau -->
+	<div id="gauche">
+		<ul>
+			<li>Rentre à la maison</li>
+			<li>Le téléprésentiel</li>
+			<li>L'équipe</li>
+			<li>Les partenaires</li>
+			<li>On écrit des trucs</li>
+			<li>On cherche des gens</li>
+			<li>Vous cherchez des gens</li>
+			<li>Mentions légales</li>
+			<li>Solidarité Coronavirus</li>
+		</ul>
+	</div>
+	<div id="milieu">
+		<ul>
+			<li>Toutes nos formations</li>
+			<li>Formation Développeur Web</li>
+			<li>Formation Développeur Fullstack JS</li>
+			<li>Formation Socle Développement Web</li>
+			<li>Formation Socle Fullstack JS</li>
+			<li>Formation React.js</li>
+			<li>Formation Symfony</li>
+			<li>Formation WordPress</li>
+			<li>Formation Data et API</li>
+		</ul>
+	</div>
+	<div id="droite">
+		<p>Vous avez dévoré le site de long en large, lu chaque article deux fois, appris par coeur notre numéro de SIRET, et malgré ça, vous voulez encore du contenu ? Bon, abonnez-vous à la newsletter, on va voir ce qu’on peut faire…</p>
+		<div id="mail">
+			<a href="mailto:#@nullepart.fr">Votre adresse e-mail</a><span id="ok">OK</span>
+		</div>
+	</div>
+</article>
+
+<footer>
+	<div id="gauche">
+		<img src="index.png">
+	</div>
+	<div id="milieu">
+		<h2>CONTACTEZ NOUS --></h2>
+	</div>
+	<div id="droite">
+		<a href="mailto: hey@oclock.io"><span title="Hate de vous lire"><img src="enveloppe.jpg"></span></a>
+		<a href="#.html"><span title="Certainement le meilleur endroit pour ne pas louper une miette de nos actus!"></span><img src="fb.jpg"></a>
+		<a href="#.html"><span title="Nos étudiants posent devant l'objectif"><img src="ig.jpg"></span></a>
+		<a href="discut.html"><span title="Discutez directement avec notre communauté"><img src="discut.jpg"></span></a>
+		<a href="tel.html"><span title="Un coup de fil? 09.09.09.09.09"><img src="tel.jpg"></span></a>
+	</div>
+</footer>
+
+</body>
+</html>

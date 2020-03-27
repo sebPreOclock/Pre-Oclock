@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>O'clock - Formation Développeur Web</title>
+</head>
+<body>
+	<header>
+		<h3><a href="#">Accueil</a></h3>
+		<h3><a href="#">La méthode</a></h3>
+		<h3><a href="#">Les formations</a></h3>
+		<img src="rondQuiSertaRien">
+		<h3><a href="#">On recrute</a></h3>
+		<h3><a href="#">La Team</a></h3>
+		<h3><a href="#">Le Blog</a></h3>
+		<h3><a href="#">Vous Recrutez?</a></h3>
+		<h3><a href="#">Je m'inscris</a></h3>
+	</header>
+<article> <!--Fond turquoise -->
+	<p><img src="index.png"></p>
+	<p><h1>Embarquez dans nos salles de classe virtuelles pour apprendre le métier de développeur, entouré de vos camarades de promotion et de vos formateurs. Un seul objectif : faire de vous un développeur web compétent, diplômé et recruté !</h1></p>
+	<p><h2>DES COURS EN DIRECT</h2>animés chaque jour en téléprésentiel</p>
+	<p><h2>DES PROFS DEVOUES</h2>aux petits soin et à temps plein</p>
+	<p><h2>UNE COMMUNAUTE</h2>d'étudiants réactive et soudée</p>
+	<p><h2>UN COACHING ACTIF</h2>pour trouver un emploi de développeur</p>
+</article>
+
+<article> <!-- Fond bleu -->
+	<p><img src="poisson.jpeg"></p>
+	<p>"Tout le monde est un génie, mais si vous jugez un poisson sur sa capacité à grimper à un arbre, il passera
+	sa vie à croire qu'il est stupide"</p>
+	<h2>ALBERT EINSTEIN</h2>
+</article>
+
+<article> <!-- Fond rouge/saumon -->
+	<h2>NOUVELLE ECOLE, NOUVELLE METHODE</h2>
+	<p> Depuis chez soi, on se plonge dans les cours en direct-vidéo, animés chaque jour par nos formateurs. Une salle de classe vivante où les élèves apprennent ensemble le métier de développeur.</p>
+
+	<p>Après les cours, les étudiants pourront aiguiser leurs compétences à coups de révisions et de challenges, en autonomie comme en groupe. Ils s’entraînent, s’entraident et sont encadrés constamment et en temps réel par une équipe pédagogique expérimentée.</p>
+
+	<p>On appelle ça le téléprésentiel : l’accompagnement humain allié au confort de l’apprentissage à la maison… et en chaussons ! </p>
+	
+	<p><a href="#">LA METHODE DANS LE DETAIL</a></p><p><img src="pc.png"></p>
+</article>
+
+<article> <!-- Fond jaune jaune!! -->
+	<h2>DES FORMATIONS FAIT-MAISON</h2>
+	<p>Découvrez toutes nos formations à déguster depuis chez vous en téléprésentiel. Envie de coder sur le pouce ou d’une formation plus garnie : nous avons sûrement un programme correspondant à votre appétit.</p>
+
+	<p>Derrière les fourneaux, une brigade de formateurs-développeurs avec des années de pratique au compteur, qui ont pensé, conçu et mitonné toutes les formations présentes au menu.</p>
+
+	<p>Une école à la maison avec des programmes « fait-maison », c’était la moindre des choses.</p>
+
+	<p><a href="#">DECOUVREZ NOS FORMATIONS</a></p>
+
+</article>
+
+<article> <!-- Fond vert lime -->
+	<h2>DE QUOI A-T-ON BESOIN POUR S'INSCRIRE?</h2>
+	<img src="matos.png">
+	<p><h2>Un ordinateur, la base.</h2>
+	<p>Développer sans ordinateur, ce sera franchement compliqué. Assurez-vous d’avoir une bonne machine avant de vous inscrire chez O’clock. Pour vous aider à financer votre équipement, O’clock vous donnera un <a href="#">coup de pouce</a> !</p>
+	
+
+</article>
+
+
+</body>
